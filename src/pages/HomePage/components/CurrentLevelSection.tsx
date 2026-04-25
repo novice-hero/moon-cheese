@@ -1,5 +1,5 @@
-import { Box, Flex, styled } from 'styled-system/jsx';
 import { ProgressBar, Spacing, Text } from '@/ui-lib';
+import { Box, Flex, styled } from 'styled-system/jsx';
 
 function CurrentLevelSection() {
   return (
