@@ -34,3 +34,5 @@ styled-system-studio
 !.yarn/sdks
 !.yarn/versions
 .yarn/cache
+
+.omc/
