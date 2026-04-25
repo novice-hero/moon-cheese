@@ -15,7 +15,7 @@ export { default as Text } from './components/text';
 export type { BadgeProps } from './components/badge';
 export type { ButtonProps } from './components/button';
 export type { CounterProps } from './components/counter';
-export type { CurrencyToggleProps, CurrencyType } from './components/currency-toggle';
+export type { CurrencyToggleProps } from './components/currency-toggle';
 export type { ProgressBarProps } from './components/progressbar';
 export type { RatingGroupProps } from './components/rating-group';
 export type { TagProps, TagType } from './components/tag';
